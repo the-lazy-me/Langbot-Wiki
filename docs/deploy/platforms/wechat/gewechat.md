@@ -1,5 +1,9 @@
 # 通过 Gewechat 接入个人微信
 
+:::warning 
+LangBot接入gewechat，仅供娱乐，请勿用于违法违规行为，否则后果自负。
+:::
+
 **本教程要求 LangBot 以 Docker 容器部署**，请根据 LangBot 部署文档将 LangBot 部署到 Docker 中。
 
 :::info
